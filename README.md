@@ -2,7 +2,7 @@
 Mykolaiv, Ukraine
 
 ## Formal education
-+ 2005-2006 – 11 years at [Mykolaiv municipal collegium](http://colegium.mk.ua/)
++ 2005-2016 – 11 years at [Mykolaiv municipal colegium](http://colegium.mk.ua/)
 + 2016-2019 – 3 years as a student at [Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/)
 + *Software Construction in Java* on edX
 + June 2018 – *MongoDB for Node.js course* at MongoDB University
