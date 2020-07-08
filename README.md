@@ -6,7 +6,7 @@
 - ES5 (NetSuite uses [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino))
 - [RequireJS](https://requirejs.org/)
 - [SuiteScript 2.0](https://docs.oracle.com/cloud/latest/netsuitecs_gs/NSSCR/NSSCR.pdf)
-- At some point made a page with Servlets, Bootstrap and JQuery
+- At some point made a page with Suitlets, Bootstrap and JQuery
 
 ### C++/Node dev at [Uplandme Inc.](https://upland.me/) (5 month)
 - C++ unit testing of [EOS](https://eos.io/) smart contract
