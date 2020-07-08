@@ -1,11 +1,13 @@
 # Petro Mudrievskyj
 
 ## Experience
+
 ### NetSuite dev at Onyx Inc. (4 month)
 - ES5 (NetSuite uses [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino))
 - [RequireJS](https://requirejs.org/)
 - [SuiteScript 2.0](https://docs.oracle.com/cloud/latest/netsuitecs_gs/NSSCR/NSSCR.pdf)
 - At some point made a page with Servlets, Bootstrap and JQuery
+
 ### C++/Node dev at [Uplandme Inc.](https://upland.me/) (5 month)
 - C++ unit testing of [EOS](https://eos.io/) smart contract
 - C++ Node.js addon
@@ -17,11 +19,13 @@
 - GitLab pipelines
 
 ## Education
+
 ### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (11 freaking years of my life)
 + Participated in all kinds of olimpiads. Mainly math, physics and informatics.
 + Gained a lot of experience with algorithms, data structures and C++ via participating in [Ukrainian Olimpiad in Informatics](https://oi.in.ua/) for 5 consequtive years.
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014
 + Graduated with an average grade of 11 out of 12.
+
 ### [Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (3 years)
 + Got really lucky with ma boys - `TopSquad` team - Oleksandr Raievskyi and Alex Ermolaev. We participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) together.
 + Nothing else of importance, really.
