@@ -41,4 +41,4 @@
 + Hacked [Hearthstone](https://playhearthstone.com/) - shh
 + Interests: biking, tabletop games, piano
 
-*Special thanks to Alina Donika. Without her this CV wouldn't even be close to being nice.*
+*Thanks to my friend Alina Donika. Without her this CV wouldn't even be close to being nice.*
