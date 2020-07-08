@@ -6,7 +6,6 @@ Mykolaiv, Ukraine
 + 2016-2019 – 3 years as a student at [Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/)
 + *Software Construction in Java* on edX
 + June 2018 – *MongoDB for Node.js course* at MongoDB University
-+ *Google it* workshop (joke) :)
 
 ## Skills
 + Languages: C++, Sh, JS (Node.js), SeQueL, Java, Python
