@@ -20,7 +20,7 @@
 
 ## Education
 
-### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (11 freaking years of my life)
+### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (11 years)
 + Participated in all kinds of olimpiads. Mainly math, physics and informatics.
 + Gained a lot of experience with algorithms, data structures and C++ via participating in [Ukrainian Olimpiad in Informatics](https://oi.in.ua/) for 5 consequtive years.
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014
