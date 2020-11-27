@@ -29,16 +29,16 @@
 ### [Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (3 years)
 + Got really lucky with ma boys - `TopSquad` team - Oleksandr Raievskyi and Alex Ermolaev. We participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) together.
 + Nothing else of importance, really.
-+ Did not graduate.
++ Haven't graduated yet.
 
 ## Other
++ First place at [Grid Compression Contest](https://algotester.com/gcc)
++ Third place at [VM Scheduling Contest](https://algotester.com/vmsc)
 + Learned some Java and Python in my spare time
 + Made a little game in Java
 + Made some Android applications
 + Used Ubuntu for some years
 + Participated in Codeforces competitions
-+ First place at [Grid Compression Contest](https://algotester.com/gcc/en)
-+ Hacked [Hearthstone](https://playhearthstone.com/) - shh
 + Interests: biking, tabletop games, piano
 
 *Thanks to my friend Alina Donika. Without her this CV wouldn't even be close to being nice.*
