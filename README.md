@@ -20,16 +20,14 @@
 
 ## Education
 
-### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (11 years)
-+ Participated in all kinds of olimpiads. Mainly math, physics and informatics.
+### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (2005-2016)
++ Participated in a lot of olimpiads. Mainly math, physics and informatics. Got [10 diplomas](https://data.oi.in.ua/people/769716) from all-ukrainian olimpiads.
 + Gained a lot of experience with algorithms, data structures and C++ via participating in [Ukrainian Olimpiad in Informatics](https://oi.in.ua/) for 5 consequtive years.
-+ Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014
++ Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014.
 + Graduated with an average grade of 11 out of 12.
 
-### [Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (3 years)
-+ Got really lucky with ma boys - `TopSquad` team - Oleksandr Raievskyi and Alex Ermolaev. We participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) together.
-+ Nothing else of importance, really.
-+ Haven't graduated yet.
+### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016-2021)
++ Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
 
 ## Other
 + First place at [Grid Compression Contest](https://algotester.com/gcc)
