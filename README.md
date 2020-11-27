@@ -12,10 +12,10 @@
 - C++ unit testing of [EOS](https://eos.io/) smart contract
 - C++ Node.js addon
 - C++ WASM module
-- Everything above also means [CMake](https://cmake.org/) is not a beast I can't slain
-- Some general development in Node.js - refactoring in [Feathers](https://feathersjs.com/), a couple of modules in [Nest](https://nestjs.com/) and an entire little blockchain-watcher service of my own
-- Postgres
-- Docker
+- Got some experience working with [CMake](https://cmake.org/)
+- Some general development in Node.js - refactoring in [Feathers](https://feathersjs.com/), a couple of modules in [Nest](https://nestjs.com/) and an entire little blockchain-watcher Node.js service
+- Postgres queries
+- Docker container for C++ build
 - GitLab pipelines
 
 ## Education
