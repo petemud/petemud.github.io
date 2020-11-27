@@ -27,7 +27,7 @@
 + Graduated with an average grade of 11 out of 12.
 
 ### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016-2021)
-+ Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
++ Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
 
 ## Other
 + First place at [Grid Compression Contest](https://algotester.com/gcc)
