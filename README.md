@@ -2,13 +2,11 @@
 
 ## Experience
 
-### NetSuite dev at Onyx Inc. (4 month)
-- ES5 (NetSuite uses [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino))
-- [RequireJS](https://requirejs.org/)
-- [SuiteScript 2.0](https://docs.oracle.com/cloud/latest/netsuitecs_gs/NSSCR/NSSCR.pdf)
-- At some point made a page with Suitlets, Bootstrap and JQuery
+### Intern Algorithm Engineer / Researcher at [Huawei](https://huawei.com/)
+- Worked on Linux kernel feature
+- Gained experience with C, vim and tmux
 
-### C++/Node dev at [Uplandme Inc.](https://upland.me/) (5 month)
+### C++/Node Developer at [Uplandme Inc.](https://upland.me/)
 - C++ unit testing of [EOS](https://eos.io/) smart contract
 - C++ Node.js addon
 - C++ WASM module
@@ -17,6 +15,12 @@
 - Postgres queries
 - Docker container for C++ build
 - GitLab pipelines
+
+### NetSuite Developer at Onyx Inc.
+- ES5 (NetSuite uses [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino))
+- [RequireJS](https://requirejs.org/)
+- [SuiteScript 2.0](https://docs.oracle.com/cloud/latest/netsuitecs_gs/NSSCR/NSSCR.pdf)
+- At some point made a page with Suitlets, Bootstrap and JQuery
 
 ## Education
 
@@ -28,15 +32,13 @@
 
 ### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016-2021)
 + Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
++ Did not 
 
 ## Other
-+ First place at [Grid Compression Contest](https://algotester.com/gcc)
-+ Third place at [VM Scheduling Contest](https://algotester.com/vmsc)
++ Participated in some Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot)
 + Learned some Java and Python in my spare time
 + Made a little game in Java
 + Made some Android applications
 + Used Ubuntu for some years
 + Participated in Codeforces competitions
-+ Interests: biking, tabletop games, piano
-
-*Thanks to my friend Alina Donika. Without her this CV wouldn't even be close to being nice.*
++ Interests: biking, tabletop games, piano, game theory
