@@ -32,7 +32,7 @@
 
 ### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016-2021)
 + Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
-+ Did not 
++ Haven't graduated 
 
 ## Other
 + Participated in some Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot)
