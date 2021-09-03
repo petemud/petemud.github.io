@@ -2,11 +2,11 @@
 
 ## Experience
 
-### Intern Algorithm Engineer / Researcher at [Huawei](https://huawei.com/)
+### Intern Algorithm Engineer / Researcher at [Huawei](https://huawei.com/) (Feb 2021 - May 2021)
 - Worked on Linux kernel feature
 - Gained experience with C, vim and tmux
 
-### C++/Node Developer at [Uplandme Inc.](https://upland.me/)
+### C++/Node Developer at [Uplandme Inc.](https://upland.me/) (Dec 2019 - Apr 2020)
 - C++ unit testing of [EOS](https://eos.io/) smart contract
 - C++ Node.js addon
 - C++ WASM module
@@ -16,7 +16,7 @@
 - Docker container for C++ build
 - GitLab pipelines
 
-### NetSuite Developer at Onyx Inc.
+### NetSuite Developer at Onyx Inc. (June 2019 - Sept 2019)
 - ES5 (NetSuite uses [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino))
 - [RequireJS](https://requirejs.org/)
 - [SuiteScript 2.0](https://docs.oracle.com/cloud/latest/netsuitecs_gs/NSSCR/NSSCR.pdf)
@@ -24,13 +24,13 @@
 
 ## Education
 
-### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (2005-2016)
+### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (2005 - 2016)
 + Participated in a lot of olimpiads. Mainly math, physics and informatics. Got [10 diplomas](https://data.oi.in.ua/people/769716) from all-ukrainian olimpiads.
 + Gained a lot of experience with algorithms, data structures and C++ via participating in [Ukrainian Olimpiad in Informatics](https://oi.in.ua/) for 5 consequtive years.
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014.
 + Graduated with an average grade of 11 out of 12.
 
-### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016-2021)
+### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016 - 2021)
 + Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
 + Haven't graduated 
 
