@@ -37,7 +37,7 @@
 ## Education
 
 ### [Mykolaiv municipal colegium](http://colegium.mk.ua/) (2005 - 2016)
-+ Participated in a lot of olimpiads. Mainly math, physics and informatics. Got [10 diplomas](https://data.oi.in.ua/people/769716) from all-ukrainian olimpiads.
++ Participated in a lot of olimpiads. Mainly math, physics and informatics. Got [10 diplomas](https://data.oi.in.ua/people/769716?lang=en) from all-ukrainian olimpiads.
 + Gained a lot of experience with algorithms, data structures and C++ via participating in [Ukrainian Olimpiad in Informatics](https://oi.in.ua/) for 5 consequtive years.
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014.
 + Graduated with an average grade of 11 out of 12.
