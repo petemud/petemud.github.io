@@ -2,8 +2,20 @@
 
 ## Experience
 
+### Intern Resercher (Dec 2021 - Aug 2022) / Software Engineer (Sep 2022 - present) at [Huawei](https://huawei.com/) (again)
+- Implemented a couple of optimizations in internal C compiler
+- Worked on speeding up Chisel/FIRRTL compilation
+- Learned some Coq and used Ltac for automatic proof generation (haven't tried Coq's module types)
+- Tried writing SMT-LIB's Common List by hand
+- Used Arm® Architecture Reference Manual (v8 and v7) quite extensively ([example](http://lists.infradead.org/pipermail/linux-arm-kernel/2023-April/824874.html))
+- A bit of GitLab pipelines
+
+### Middle C++ developer at [EPAM](https://epam.com/) (One month in Autumn of 2021)
+- Worked on system that calculates taxes for big corporations
+- You can say I have some experience with MSBuild and Windows COM now
+
 ### Intern Algorithm Engineer / Researcher at [Huawei](https://huawei.com/) (Feb 2021 - May 2021)
-- Worked on Linux kernel feature
+- Worked on implementing and testing lock that works well with NUMA (from [paper](https://gts3.org/assets/papers/2019/kashyap:shfllock.pdf))
 - Gained experience with C, vim and tmux
 
 ### C++/Node Developer at [Uplandme Inc.](https://upland.me/) (Dec 2019 - Apr 2020)
@@ -30,15 +42,18 @@
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014.
 + Graduated with an average grade of 11 out of 12.
 
-### [Bachelor at Computer Science faculty of Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (2016 - 2021)
+### Bachelor at [Computer Science faculty](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) of Petro Mohyla Black Sea National University (2016 - 2021)
 + Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
-+ Haven't graduated 
++ Haven't graduated
+
+### Bachelor at [Department of Information Management Systems and Technologies](http://iust.nuos.edu.ua/) at Admiral Makarov National University of Shipbuilding (2021 - 2022)
++ Graduated
 
 ## Other
-+ Participated in some Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot)
-+ Learned some Java and Python in my spare time
++ Participated in Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot)
++ Learned some Java, Python and Haskell in my spare time
 + Made a little game in Java
 + Made some Android applications
 + Used Ubuntu for some years
 + Participated in Codeforces competitions
-+ Interests: biking, tabletop games, piano, game theory
++ Other interests: biking, tabletop games, piano, game theory
