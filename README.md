@@ -2,8 +2,7 @@
 
 ## Experience
 
-### Software Engineer (Sep 2022 - present) at [Huawei](https://huawei.com/)
-### Intern Resercher (Dec 2021 - Aug 2022) at [Huawei](https://huawei.com/)
+### Software Engineer (Sep 2022 - present) at [Huawei](https://huawei.com/); previously Intern Resercher (Dec 2021 - Aug 2022)
 - Implemented a couple of optimizations in internal C compiler
 - Worked on speeding up Chisel/FIRRTL compilation
 - Learned Coq and used Ltac for automatic proof generation
