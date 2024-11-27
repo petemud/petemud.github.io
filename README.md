@@ -45,12 +45,10 @@
 + Awarded with the honorable mention as an ‘Outstanding Mykolaiv citizen’ by the city mayor, 2014.
 + Graduated with an average grade of 11 out of 12.
 
-### [Computer Science faculty](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) of Petro Mohyla Black Sea National University (2016 - 2021)
+### Bachelor of Computer Science (2016 - 2022)
++ [Computer Science faculty](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) of Petro Mohyla Black Sea National University (2016 - 2021)
++ Transfered to [Department of Information Management Systems and Technologies](http://iust.nuos.edu.ua/) at Admiral Makarov National University of Shipbuilding (2021 - 2022)
 + Participated in [ICPC](https://icpc.global/)'s (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
-+ Haven't graduated
-
-### [Department of Information Management Systems and Technologies](http://iust.nuos.edu.ua/) at Admiral Makarov National University of Shipbuilding (2021 - 2022)
-+ Bachelor
 
 ## Other
 + Participated in Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot); Hackathon - inside Huawei
