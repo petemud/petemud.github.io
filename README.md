@@ -55,7 +55,5 @@
 + Hacked Hearthstone once [https://redd.it/snadt6/](https://redd.it/snadt6/)
 + Participated in Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 1st at [HOT Round 1](https://algotester.com/hot); Hackathon - inside Huawei
 + Learned some Java, Python and Haskell in spare time
-+ Made a little game in Java
-+ Made some Android applications
 + Participated in Codeforces competitions
-+ Other interests: badminton, piano, game theory
++ Other interests: badminton, piano, game theory, making inappropriate jokes
