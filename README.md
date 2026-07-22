@@ -1,5 +1,16 @@
 # Petro Mudrievskyj
 
+- Birth year: 1999
+- Age: `new Date().getFullYear() - 1999`
+- Location: Shanghai
+- Homeworld: ~~Coruscant~~ Earth
+- Species: Homo-hackerus
+- Occupation: ~~Jedi Master~~ Software Engineer
+
+### Summary
+
+I've started programming in Delphi 7 in 4th grade at the age of 9 at [The Palace of Pupil Creativity of Mykolaiv](https://ndtu.mk.ua/відділ-технічної-творчості-2/). Continued on to Free Pascal in 5th grade at after-lessons in [my school](https://mmk.mk.ua/). Since 7th grade participated (competing with 9th grade) in UOIs (All-Ukrainian School Olympiad in Informatics) and other All-Ukrainian Olympiads [getting 10 certificates in total](https://data.uoi.ua/people/769716). At some point around grade 9 or 10 learned C++ being the main language used in Competitive Programming. Went on to get a Bachelor's from [Petro Mohyla Black Sea National University](https://chmnu.edu.ua/category/fakulteti/fakultet-komp-yuternih-nauk/) (transfering to [Admiral Makarov National University of Shipbuilding](http://iust.nuos.edu.ua/)). While there participated with `BSNU_TopSquad` in ICPCs up to regionals (SEERC) [from 2017 to 2020](https://icpc.global/ICPCID/XYPJMJNY4EPX). Worked small jobs here and there in Ukraine. Participated in a couple of Huawei-organized competitions solving NP-complete problems ([1](https://algotester.com/gcc), [2](https://algotester.com/vmsc), [3](https://algotester.com/hot)). As a result, in December of 2021 went on a half-year business trip to Huawei in China as an intern, stayed and transfered to a full employee in Shanghai office at the end of August 2022. Have been here since: doing formal verification using [Coq](coq.inria.fr), [Boogie](https://boogie-docs.readthedocs.io), [SMT-LIB](https://smt-lib.org/) and other fun things.
+
 ## Experience
 
 ### Senior Engineer (Sep 2022 - present) at [Huawei](https://huawei.com/); previously Intern Resercher (Dec 2021 - Aug 2022)
