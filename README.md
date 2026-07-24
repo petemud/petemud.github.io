@@ -57,6 +57,7 @@ I've started programming in Delphi 7 in 4th grade at the age of 9 at [The Palace
 + Graduated with an average grade of 11 out of 12.
 
 #### [All-Ukrainian Olympiads](https://data.uoi.ua/people/769716)
+
 | Year | Grade | Certificate   | Grade Rank | Total Rank |
 | :--: | :---: | :---------:   | :--------: | :--------: |
 | *Informatics* |
@@ -77,6 +78,7 @@ I've started programming in Delphi 7 in 4th grade at the age of 9 at [The Palace
 + Participated in [ICPC](https://seerc.icpc.global/) (up to Regionals) and [KPI-OPEN](https://open.kpi.ua/) as a part of `BSNU_TopSquad` together with Oleksandr Raievskyi and Alex Ermolaev.
 
 #### [ICPC Results as part of `BSNU_TopSquad`](https://icpc.global/ICPCID/XYPJMJNY4EPX)
+
 | Year | Ukraine Southern Rank | AUCPC Rank | SEERC Rank |
 | :--: | :-------------------: | :--------: | :--------: |
 | 2020 | 5                     | 31         | 69         |
