@@ -1,7 +1,6 @@
 # Petro Mudrievskyj
 
 - Birth year: 1999
-- Age: `new Date().getFullYear() - 1999`
 - Location: Shanghai
 - From: Ukraine
 - Languages: English (proficient), Russian (native), Ukrainian (native), Mandarin (studying)
@@ -92,4 +91,4 @@ I've started programming in Delphi 7 in 4th grade at the age of 9 at [The Palace
 + Participated in Huawei-organazed tournaments: 1st place at [Grid Compression Contest](https://algotester.com/gcc), 3rd place at [VM Scheduling Contest](https://algotester.com/vmsc) and 4th at [Huawei Optimization Tournament 2021](https://algotester.com/hot2021); Hackathon - inside Huawei
 + Dabble in: Python, Haskell, Rust, Java, PHP, Swift, C#
 + Enjoyer of x86, RISC-V and ARM64 assembly and vector intrinsics
-+ Other: piano, bass, badminton, ping-pong, Catan, Xiangqi, making inappropriate jokes
++ Other: piano, bass, badminton, ping-pong, Catan, Xiangqi
