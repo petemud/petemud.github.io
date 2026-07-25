@@ -3,7 +3,7 @@
 - Birth year: 1999
 - Location: Shanghai
 - From: Ukraine
-- Languages: English (proficient), Russian (native), Ukrainian (native), Mandarin (studying)
+- Languages: English (fluent), Russian (native), Ukrainian (native), Mandarin (studying)
 
 ### Summary
 
