@@ -19,8 +19,8 @@ I was always fascinated with provably-correct software, so I learned [Coq](https
 - Implemented optimizations for internal C compiler written in C++
 - Used Coq and Ltac for automatic proof generation for ARM64 assembly verification
 - Wrote a parser for GCC Extended Asm (AARM64) in C++
-- Wrote by hand and generated SMT-LIB2's Common List
 - Used Boogie as a backend for assembly verification
+- Wrote by hand and generated SMT-LIB2's Common List
 - Navigating Arm® Architecture Reference Manual (v8 and v7) ([example](http://lists.infradead.org/pipermail/linux-arm-kernel/2023-April/824874.html))
 - Through verification work learned a lot about weak memory models (ARM in particular)
 - Worked on speeding up Chisel/FIRRTL compilation for verification of a RISC-V cpu
