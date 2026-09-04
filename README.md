@@ -18,7 +18,7 @@ I was always fascinated with provably-correct software, so I learned [Coq](https
 - Worked on verification of HarmonyOS kernel: developing parts of a verification framework for C language written in Python as a backend to GCC GIMPLE and LLVM IR
 - Implemented optimizations for internal C compiler written in C++
 - Used Coq and Ltac for automatic proof generation for ARM64 assembly verification
-- Parsed GCC Extended Asm (AARM64) in C++
+- Wrote a parser for GCC Extended Asm (AARM64) in C++
 - Wrote by hand and generated SMT-LIB2's Common List
 - Used Boogie as a backend for assembly verification
 - Navigating Arm® Architecture Reference Manual (v8 and v7) ([example](http://lists.infradead.org/pipermail/linux-arm-kernel/2023-April/824874.html))
