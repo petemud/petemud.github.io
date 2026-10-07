@@ -4,6 +4,7 @@
 - Location: Shanghai
 - From: Ukraine
 - Languages: English (fluent), Russian (native), Ukrainian (native), Mandarin (studying)
+- Contacts: peter.mudrievskij@gmail.com; +8613169539824
 
 ### Summary
 
