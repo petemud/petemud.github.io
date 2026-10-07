@@ -14,7 +14,7 @@ I was always fascinated with provably-correct software, so I learned [Coq](https
 
 ## Experience
 
-### Senior Engineer (Sep 2022 - present) at [Huawei](https://huawei.com/); previously Intern Researcher (Dec 2021 - Aug 2022)
+### Senior Engineer (Sep 2022 - Sep 2024) at [Huawei](https://huawei.com/); previously Intern Researcher (Dec 2021 - Aug 2022)
 - Worked on verification of HarmonyOS kernel: developing parts of a verification framework for C language written in Python as a backend to GCC GIMPLE and LLVM IR
 - Implemented optimizations for internal C compiler written in C++
 - Used Coq and Ltac for automatic proof generation for ARM64 assembly verification
